@@ -1,7 +1,7 @@
 <a name="top"></a>
 
 <a href="https://www.microver.ch">
-  <img src="./linkedin-banner.jpeg" alt="microver.ch" width="800">
+  <img src="./linkedin-banner.jpeg" alt="microver.ch" width="850">
 </a>
 
 [![Share on LinkedIn](https://img.shields.io/badge/LinkedIn-share-blue)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/microver-ch)
